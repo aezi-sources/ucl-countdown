@@ -1,3 +1,6 @@
-UEFA Champions League Countdown
+Title: UEFA Champions League Countdown
 
-https://as.aezlo.com/ucl-countdown
+Site: https://as.aezlo.com/ucl-countdown
+Owner: https://twitter.com/aezl21
+
+License: https://github.com/as-sources/ucl-countdown/.github/LICENSE

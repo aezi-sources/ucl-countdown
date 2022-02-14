@@ -1,0 +1,24 @@
+/* Import Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
+/* CSS */
+
+body {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(220,5,45,1) 0%, rgba(223,0,60,1) 100%);
+    color: white;
+}
+
+.ucl-main {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 200px;
+}
+
+.ucl-1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: monospace;
+    padding-top: 0px;
+}
